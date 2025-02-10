@@ -1,0 +1,7 @@
+Distâncias e Caminhos a partir do vértice 1:
+D(v1 -> v1) = 0
+D(v1 -> v2) = 8
+D(v1 -> v3) = 9
+D(v1 -> v4) = 7
+D(v1 -> v5) = 5
+Tempo total de execução: 0.000003 segundos
